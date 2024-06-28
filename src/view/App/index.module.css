@@ -1,0 +1,12 @@
+.article {
+  padding: 20px 55px;
+  background-color: aliceblue;
+  min-width: 600px;
+  border-radius: 20px;
+}
+
+.articleTitle{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 0.3em;
+}
